@@ -1,3 +1,21 @@
-body {
-
+body{
+  background-color: #FECEE9;
 }
+h2{
+  color:#F06C98;
+  font-size: 300%
+}
+img{
+  border: dashed #F06C98 5px
+}
+ul{list-style-type: none;
+text-align: center;
+}
+li{float: left;
+}
+li a{
+  padding: 50px;
+  font-family: "Papyrus", Fantasy;
+}
+
+
