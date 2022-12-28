@@ -1,9 +1,10 @@
 body{
-  background-color: #A03472;
+  background-color: #FECEE9;
 }
 h2{
   color:#F06C98;
-  font-size: 300%
+  font-size: 300%;
+    font-family: "Montserrat";
 }
 img{
   border: dashed #F06C98 5px
@@ -15,6 +16,6 @@ li{float: left;
 }
 li a{
   padding: 50px;
-  font-family: "Papyrus", Fantasy;
+  font-family: "Montserrat";
+  font-size: 150%;
 }
-
