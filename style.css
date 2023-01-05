@@ -7,14 +7,14 @@ h2{
     font-family: "Montserrat";
 }
 img{
-  border: dashed #F06C98 5px;
+  border: dashed #F06C98 5px
 }
 ul{list-style-type: none;
 text-align: center;
 }
 li{float: left;
 }
-li a:hover{
+li a{
   padding: 50px;
   font-family: "Montserrat";
   font-size: 150%;
