@@ -4,15 +4,17 @@ body{
 h2{
   color:#F06C98;
   font-size: 300%;
-    font-family: "Montserrat";
+  font-family: "Montserrat";
 }
 img{
   border: dashed #F06C98 5px
 }
-ul{list-style-type: none;
-text-align: center;
+ul{
+  list-style-type: none;
+  text-align: center;
 }
-li{float: left;
+li{
+  float: left;
 }
 li a{
   padding: 50px;
